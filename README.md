@@ -6,5 +6,6 @@
 # ✍課程筆記區  
 # 📑作業連結區
 # 📁專題連結區 
-# 🔧工具連結區
-[ChatGPT](https://chat.openai.com/)
+# 🔧工具列
+[ChatGPT](https://chat.openai.com/)<br/>
+[Markdown 語法說明](https://markdown.tw/#img)
