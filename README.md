@@ -7,4 +7,4 @@
 # 📑作業連結區
 # 📁專題連結區 
 # 🔧工具連結區
-[chatGPT](https://chat.openai.com/)
+[ChatGPT](https://chat.openai.com/)
