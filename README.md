@@ -7,6 +7,7 @@
 # 📑作業連結區
 # 📁專題連結區 
 # 🔧工具列
+記得用右鍵的在新分頁中開啟連結來打開工具<br/>
 [ChatGPT](https://chat.openai.com/)<br/>
 [Markdown 語法說明](https://markdown.tw/#img)<br/>
 [DataBank](https://databank.worldbank.org/)<br/>
