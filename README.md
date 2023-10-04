@@ -5,6 +5,7 @@
 系級：科技系二年級
 # ✍課程筆記區  
 # 📑作業連結區
+[HW1](https://colab.research.google.com/drive/1q3H2aZq0maaafe4PEK2AIdN0ZuqToEVd#scrollTo=XfIc4WGLKPV3)<br/>
 # 📁專題連結區 
 # 🔧工具列
 記得用右鍵的在新分頁中開啟連結來打開工具<br/>
