@@ -7,6 +7,7 @@
 # 📑作業連結區
 [HW1](https://colab.research.google.com/drive/1q3H2aZq0maaafe4PEK2AIdN0ZuqToEVd#scrollTo=XfIc4WGLKPV3)<br/>
 [HW2](https://colab.research.google.com/drive/1q3H2aZq0maaafe4PEK2AIdN0ZuqToEVd#scrollTo=lIoWaU5HCmpB)<br/>
+[HW3](https://colab.research.google.com/drive/1q3H2aZq0maaafe4PEK2AIdN0ZuqToEVd#scrollTo=kkJRhY9PI0V3)<br/>
 # 📁專題連結區 
 # 🔧工具列
 記得用右鍵的在新分頁中開啟連結來打開工具<br/>
