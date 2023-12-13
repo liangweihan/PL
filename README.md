@@ -1,8 +1,8 @@
 # 💻112-1 師大科技系程式設計  
 112-1 師大科技系程式設計  
-授課教師：蔡英文老師  
-姓名：梁巍瀚袋子期  
-系級：科技系十年級
+授課教師：蔡芸琤老師  
+姓名：梁巍瀚  
+系級：科技系二年級
 # ✍課程筆記區  
 # 📑作業連結區
 [HW1](https://colab.research.google.com/drive/1q3H2aZq0maaafe4PEK2AIdN0ZuqToEVd#scrollTo=XfIc4WGLKPV3)<br/>
